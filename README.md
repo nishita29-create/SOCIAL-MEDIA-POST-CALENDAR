@@ -14,12 +14,9 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 DESCRIPTION OF TASK:
 
-The Social Media Post Calendar (Excel) is a dynamic and customizable spreadsheet designed to help individuals, teams, and businesses plan, schedule, and manage their social media content effectively. 
-Whether you’re a digital marketer, content creator, brand manager, or small business owner, this tool offers a centralized platform  for organizing your social media efforts across multiple platforms.
-
-This Excel-based calendar allows for clear visibility of planned content, consistent posting schedules, and improved collaboration within marketing teams. It is 
-
-suitable for daily, weekly, or monthly content planning and supports platforms like Facebook, Instagram, Twitter/X, LinkedIn, TikTok, Pinterest, and YouTube.
+The Social Media Post Calendar (Excel) is a dynamic and customizable spreadsheet designed to help individuals, teams, and businesses plan, schedule, and manage their social media content effectively. Whether you’re a digital marketer, content creator, brand manager, or small business owner, this tool offers a centralized platform  for organizing your social media efforts across multiple platforms.
+This Excel-based calendar allows for clear visibility of planned content, consistent posting schedules, and improved collaboration within marketing teams.
+It is suitable for daily, weekly, or monthly content planning and supports platforms like Facebook, Instagram, Twitter/X, LinkedIn, TikTok, Pinterest, and YouTube.
 
 Key Features:
 
@@ -117,11 +114,8 @@ Tips for Best Use:
 
 Conclusion:
 
-This Excel-based Social Media Post Calendar is a simple yet powerful tool to bring structure to your social content strategy. It is fully customizable, easy to use,
-
-and scalable to suit both individual creators and large teams. By using this calendar consistently, you’ll be able to streamline your planning, maintain posting 
-
-regularity, and better evaluate your content’s effectiveness.   
+This Excel-based Social Media Post Calendar is a simple yet powerful tool to bring structure to your social content strategy.
+It is fully customizable, easy to use, and scalable to suit both individual creators and large teams. By using this calendar consistently, you’ll be able to streamline your planning, maintain posting regularity, and better evaluate your content’s effectiveness.   
 
     
 
