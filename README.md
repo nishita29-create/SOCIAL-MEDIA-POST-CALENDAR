@@ -115,7 +115,12 @@ Tips for Best Use:
 Conclusion:
 
 This Excel-based Social Media Post Calendar is a simple yet powerful tool to bring structure to your social content strategy.
-It is fully customizable, easy to use, and scalable to suit both individual creators and large teams. By using this calendar consistently, you’ll be able to streamline your planning, maintain posting regularity, and better evaluate your content’s effectiveness.   
+It is fully customizable, easy to use, and scalable to suit both individual creators and large teams. By using this calendar consistently, you’ll be able to streamline your planning, maintain posting regularity, and better evaluate your content’s effectiveness.  
+
+output
+
+![Image](https://github.com/user-attachments/assets/93ad3433-75b7-4391-b24b-c01734469b9b)
+
 
     
 
